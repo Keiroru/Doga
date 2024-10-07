@@ -1,0 +1,14 @@
+C:\Users\vigh.noel\Desktop\doga\dolgozat\bin\Debug\net8.0\dolgozat.exe
+C:\Users\vigh.noel\Desktop\doga\dolgozat\bin\Debug\net8.0\dolgozat.deps.json
+C:\Users\vigh.noel\Desktop\doga\dolgozat\bin\Debug\net8.0\dolgozat.runtimeconfig.json
+C:\Users\vigh.noel\Desktop\doga\dolgozat\bin\Debug\net8.0\dolgozat.dll
+C:\Users\vigh.noel\Desktop\doga\dolgozat\bin\Debug\net8.0\dolgozat.pdb
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\dolgozat.AssemblyInfoInputs.cache
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\dolgozat.AssemblyInfo.cs
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\dolgozat.dll
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\refint\dolgozat.dll
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\dolgozat.pdb
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\dolgozat.genruntimeconfig.cache
+C:\Users\vigh.noel\Desktop\doga\dolgozat\obj\Debug\net8.0\ref\dolgozat.dll
